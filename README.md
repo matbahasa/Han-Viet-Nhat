@@ -4,7 +4,7 @@
 **日本語** ([Tiếng Việt](#trích-dẫn) đi theo tiếng Nyật)
 
 ## 引用
-野村純太. 2019.『ベトナム語及び日本語における漢語系語彙の品詞性の対照』東京外国語大学卒業論文.
+野村純太. 2020.『ベトナム語及び日本語における漢語系語彙の品詞性の対照』東京外国語大学卒業論文.
 
 ## ライセンス
 [クリエイティブ・コモンズ表示4.0国際ライセンス (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.ja)
@@ -32,7 +32,7 @@
 **Tiếng Việt**
 
 ## Trích dẫn
-Nomura, Junta. 2019. _Betonamugo oyobi Nihongo niokeru Kangokei Goi no Hinshisei no Taisho [Đối chiếu từ loại của từ vựng gốc Hán trong tiếng Việt và tiếng Nhật]_. Luận văn tốt nghiệp, Đại học Ngoại ngữ Tokyo.
+Nomura, Junta. 2020. _Betonamugo oyobi Nihongo niokeru Kangokei Goi no Hinshisei no Taisho [Đối chiếu từ loại của từ vựng gốc Hán trong tiếng Việt và tiếng Nhật]_. Luận văn tốt nghiệp, Đại học Ngoại ngữ Tokyo.
 
 ## Giấy phép
 [Giấy phép Creative Commons Ghi công 4.0 Quốc tế (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.vi)
